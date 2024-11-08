@@ -12,7 +12,7 @@ title                    : "Aparajito Saha / Portfolio"
 title_separator          : "-"
 name                     : &name "Aparajito Saha"
 description              : &description "Full-stack roboticist. Occasional musician."
-url                      : https://aparajito-saha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aparajitosaha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AparajitoSaha/aparajito-saha.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "IMG_0645.jpg"
   name             : "Aparajito Saha"
   pronouns         : # example: "she/her"  
-  bio              : "Graduate student in Robotics"
+  bio              : "Robotics graduate student & researcher"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
   uri              : # URL
